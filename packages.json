@@ -6,5 +6,9 @@
 	{
 		"package": "traveltime"
 		"url": "https://github.com/idem-lab/traveltime"
+	},
+	{
+		"package": "sdmtools"
+		"url": "https://github.com/idem-lab/sdmtools"
 	}
 ]
