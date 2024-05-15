@@ -4,11 +4,11 @@
 		"url": "https://github.com/idem-lab/conmat"
 	},
 	{
-		"package": "traveltime"
+		"package": "traveltime",
 		"url": "https://github.com/idem-lab/traveltime"
 	},
 	{
-		"package": "sdmtools"
+		"package": "sdmtools",
 		"url": "https://github.com/idem-lab/sdmtools"
 	}
 ]
