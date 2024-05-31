@@ -8,6 +8,10 @@
 		"url": "https://github.com/idem-lab/traveltime"
 	},
 	{
+		"package": "idpalette",
+		"url": "https://github.com/idem-lab/idpalette"
+	},
+	{
 		"package": "sdmtools",
 		"url": "https://github.com/idem-lab/sdmtools"
 	}
